@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Umit</h1>
 <h3 align="center">A passionate Android Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Kotlin, C++ and C#**
+- 🌱 I’m currently learning **Kotlin, Java, C++ and C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kayaumit07](https://github.com/kayaumit07)
 
