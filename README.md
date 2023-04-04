@@ -4,8 +4,8 @@
 
 -->
 
-<h1 align="center">Hi 👋, I'm Umit</h1>
-<h3 align="center">A passionate Android Developer from Turkey</h3>
+<h1 align="center">Hi <!--👋-->, I'm Umit</h1>
+<h3 align="center">Android Developer</h3>
 
 - 🌱 I’m currently learning **Kotlin, Java, C++ and C#**
 
